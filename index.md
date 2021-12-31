@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "tsakailab at github.io"
+permalink: /
+---
+
 # 酒井研究室＠長崎大学
 2011年度からスタートした研究室です．
 
@@ -5,7 +13,7 @@
 ---
 <br>
 
-[<img src="assets/images/population_w400.png" width="128" align="left" hspace="32">](docs/)
+[<img src="assets/images/population_w400.png" width="128" align="left" hspace="32">](docs/members/)
 ### メンバー
 教員が1名，学生が11名います．
 
