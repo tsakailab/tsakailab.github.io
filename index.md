@@ -35,4 +35,4 @@
 <br>
 <br>
 
-Last modified: 20220101
+Last modified: 20220101{: .fs-2}
