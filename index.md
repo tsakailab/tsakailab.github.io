@@ -3,6 +3,7 @@
 
 考える仕組みを作ろう
 ---
+<br>
 
 [<img src="assets/images/population_w400.png" width="128" align="left" hspace="32">](https://sites.google.com/site/tsakailab/members)
 ### メンバー
@@ -35,4 +36,4 @@
 <br>
 <br>
 
-Last modified: 20220101{: .fs-2}
+Last modified: 20220101{: .fs-2 }
