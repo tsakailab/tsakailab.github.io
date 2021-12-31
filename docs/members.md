@@ -1,3 +1,9 @@
+---
+layout: default
+title: Members
+nav_order: 2
+---
+
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| &emsp;&emsp;&emsp;&emsp;&emsp; |  |
 |:----|:----|:----|
 | 教員 | 准教授 | [酒井 智弥](http://researchmap.jp/tsakai/?lang=japanese) |
