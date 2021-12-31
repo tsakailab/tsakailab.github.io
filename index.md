@@ -5,7 +5,7 @@
 ---
 <br>
 
-[<img src="assets/images/population_w400.png" width="128" align="left" hspace="32">](https://sites.google.com/site/tsakailab/members)
+[<img src="assets/images/population_w400.png" width="128" align="left" hspace="32">](docs/)
 ### メンバー
 教員が1名，学生が11名います．
 
