@@ -13,7 +13,7 @@ nav_order: 4
 
 長崎大学文教キャンパス  
 [工学部１号館２階  
-情報システム研究室２０３および教員室１](https://drive.google.com/file/d/1A9g4jC5FvPuei_ghujwXzGPirJXO_Li-)  
+情報システム研究室２０３および教員室１](docs/酒井研.pdf)  
 
 〒852-8521  
 長崎市文教町1-14  
