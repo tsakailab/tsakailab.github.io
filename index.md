@@ -8,8 +8,8 @@
 ### メンバー
 教員が1名，学生が11名います．
 <br>
-[SEE DETAIL](https://sites.google.com/site/tsakailab/members){: .btn }
 
+<br>
 <br>
 <br>
 
@@ -17,14 +17,12 @@
 [<img src="assets/images/pr_icon_w300.png" width="128" align="left">](https://sites.google.com/site/tsakailab/research)
 ### 研究紹介
 知識を活かし，データの本質を見抜く情報の科学と技術を研究しています．<br>
-[SEE DETAIL](https://sites.google.com/site/tsakailab/research){: .btn }
 
 <br>
 
 [<img src="assets/images/pr_map_icon_t.png" width="128" align="left">](https://sites.google.com/site/tsakailab/contact)
 ### 場所・連絡先
 長崎大学工学部１号館２階<br>
-[SEE DETAIL](https://sites.google.com/site/tsakailab/contact){: .btn }
 
 <br>
 <br>
@@ -32,10 +30,9 @@
 [<img src="assets/images/Lablive_YTiconO__qrcode-monkey.png" width="128" align="left">](https://youtube.com/playlist?list=PLqcsCBw9njgBZDP-VsYt6hjROK8mhrmOa)
 ### tsakAI@LabLive!
 研究室YouTubeライブ<br>
-[SEE DETAIL](https://youtube.com/playlist?list=PLqcsCBw9njgBZDP-VsYt6hjROK8mhrmOa){: .btn }
 
 
 <br>
 <br>
 
-Last modified: {{ "last_modified_date" }}
+Last modified: {{ last_modified_date }}
