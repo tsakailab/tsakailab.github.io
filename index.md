@@ -29,7 +29,7 @@ permalink: /
 <br>
 <br>
 
-[<img src="assets/images/pr_map_icon_t.png" width="128" align="left" hspace="32">](https://sites.google.com/site/tsakailab/contact)
+[<img src="assets/images/pr_map_icon_t.png" width="128" align="left" hspace="32">](docs/contact.html)
 ### 場所・連絡先
 長崎大学工学部１号館２階
 
