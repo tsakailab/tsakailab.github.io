@@ -45,4 +45,3 @@ permalink: /
 <br>
 
 Last modified: {{ "now" | date: "%Y%m%d" }}
-{: .fs-2 }
