@@ -21,17 +21,9 @@ permalink: /
 <br>
 <br>
 
-
 [<img src="assets/images/pr_icon_w300.png" width="128" align="left" hspace="32">]({{ site.baseurl }}{% link docs/research/research.md %})
 ### 研究紹介
 知識を活かし，データの本質を見抜く情報の科学と技術を研究しています．
-
-<br>
-<br>
-
-[<img src="assets/images/pr_map_icon_t.png" width="128" align="left" hspace="32">]({{ site.baseurl }}{% link docs/contact.md %})
-### 場所・連絡先
-長崎大学工学部１号館２階
 
 <br>
 <br>
@@ -40,6 +32,12 @@ permalink: /
 ### tsakAI@LabLive!
 研究室YouTube常時ライブ配信，研究紹介動画
 
+<br>
+<br>
+
+[<img src="assets/images/pr_map_icon_t.png" width="128" align="left" hspace="32">]({{ site.baseurl }}{% link docs/contact.md %})
+### 場所・連絡先
+長崎大学工学部１号館２階
 
 <br>
 <br>
