@@ -2,7 +2,7 @@
 layout: default
 title: メンバー
 nav_order: 2
-permalink: /docs/research
+permalink: /docs/members
 ---
 
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| &emsp;&emsp;&emsp;&emsp;&emsp; |  |
