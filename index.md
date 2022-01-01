@@ -22,14 +22,14 @@ permalink: /
 <br>
 
 
-[<img src="assets/images/pr_icon_w300.png" width="128" align="left" hspace="32">](docs/research.md)
+[<img src="assets/images/pr_icon_w300.png" width="128" align="left" hspace="32">]({{ site.baseurl }}{% link docs/research.md %})
 ### 研究紹介
 知識を活かし，データの本質を見抜く情報の科学と技術を研究しています．
 
 <br>
 <br>
 
-[<img src="assets/images/pr_map_icon_t.png" width="128" align="left" hspace="32">](docs/contact.md)
+[<img src="assets/images/pr_map_icon_t.png" width="128" align="left" hspace="32">]({{ site.baseurl }}{% link docs/contact.md %})
 ### 場所・連絡先
 長崎大学工学部１号館２階
 
@@ -44,5 +44,5 @@ permalink: /
 <br>
 <br>
 
-Last modified: 20220101
+Last modified: {{ "now" | date: "%Y%m%d"}}
 {: .fs-2 }
