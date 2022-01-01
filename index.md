@@ -13,14 +13,6 @@ permalink: /
 ---
 <br>
 
-[<img src="assets/images/population_w400.png" width="128" align="left" hspace="32">]({{ site.baseurl }}{% link docs/members.md %})
-### メンバー
-教員が1名，学生が11名います．
-
-<br>
-<br>
-<br>
-
 [<img src="assets/images/pr_icon_w300.png" width="128" align="left" hspace="32">]({{ site.baseurl }}{% link docs/research/research.md %})
 ### 研究紹介
 知識を活かし，データの本質を見抜く情報の科学と技術を研究しています．
@@ -31,6 +23,13 @@ permalink: /
 [<img src="assets/images/Lablive_YTiconO__qrcode-monkey.png" width="128" align="left" hspace="32">](https://youtube.com/playlist?list=PLqcsCBw9njgBZDP-VsYt6hjROK8mhrmOa){:target="blank"}
 ### tsakAI@LabLive!
 研究室YouTube常時ライブ配信，研究紹介動画
+
+<br>
+<br>
+
+[<img src="assets/images/population_w400.png" width="128" align="left" hspace="32">]({{ site.baseurl }}{% link docs/members.md %})
+### メンバー
+教員が1名，学生が11名います．
 
 <br>
 <br>
