@@ -1,3 +1,6 @@
 title: tsakailab
 remote_theme: pmarsceill/just-the-docs
 url: https://tsakailab.github.io
+aux_links:
+  "tsakailab on GitHub":
+    - "https://tsakailab.github.io"
