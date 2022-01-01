@@ -22,7 +22,7 @@ permalink: /
 <br>
 
 
-[<img src="assets/images/pr_icon_w300.png" width="128" align="left" hspace="32">]({{ site.baseurl }}{% link docs/research.md %})
+[<img src="assets/images/pr_icon_w300.png" width="128" align="left" hspace="32">]({{ site.baseurl }}{% link docs/research/research.md %})
 ### 研究紹介
 知識を活かし，データの本質を見抜く情報の科学と技術を研究しています．
 
