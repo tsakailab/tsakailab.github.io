@@ -47,8 +47,8 @@ permalink: /docs/research
 
 その他，外部リンク：
 
-- [スパースモデリングの深化と高次元データ駆動科学の創成，文科省科研費「新学術領域研究」](http://sparse-modeling.jp/about/)
-- [情報科学の名探偵！魔法の数式 スパースモデリング，サイエンスZERO，No.514](https://www.google.co.jp/search?safe=off&biw=1089&bih=935&ei=VIwBWpnuLISW8gXokKrgDA&q=%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%81%AE%E5%90%8D%E6%8E%A2%E5%81%B5%EF%BC%81%E9%AD%94%E6%B3%95%E3%81%AE%E6%95%B0%E5%BC%8F+%E3%82%B9%E3%83%91%E3%83%BC%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9ZERO+No.514&oq=%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%81%AE%E5%90%8D%E6%8E%A2%E5%81%B5%EF%BC%81%E9%AD%94%E6%B3%95%E3%81%AE%E6%95%B0%E5%BC%8F+%E3%82%B9%E3%83%91%E3%83%BC%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9ZERO+No.514&gs_l=psy-ab.12..35i39k1.13784.16996.0.22392.4.4.0.0.0.0.104.387.3j1.4.0....0...1.1.64.psy-ab..0.2.199....0.Yx6lF_k00Fk)
+- [スパースモデリングの深化と高次元データ駆動科学の創成，文科省科研費「新学術領域研究」](http://sparse-modeling.jp/about/){:target="_blank"}
+- [情報科学の名探偵！魔法の数式 スパースモデリング，サイエンスZERO，No.514](https://www.google.co.jp/search?safe=off&biw=1089&bih=935&ei=VIwBWpnuLISW8gXokKrgDA&q=%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%81%AE%E5%90%8D%E6%8E%A2%E5%81%B5%EF%BC%81%E9%AD%94%E6%B3%95%E3%81%AE%E6%95%B0%E5%BC%8F+%E3%82%B9%E3%83%91%E3%83%BC%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9ZERO+No.514&oq=%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%81%AE%E5%90%8D%E6%8E%A2%E5%81%B5%EF%BC%81%E9%AD%94%E6%B3%95%E3%81%AE%E6%95%B0%E5%BC%8F+%E3%82%B9%E3%83%91%E3%83%BC%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9ZERO+No.514&gs_l=psy-ab.12..35i39k1.13784.16996.0.22392.4.4.0.0.0.0.104.387.3j1.4.0....0...1.1.64.psy-ab..0.2.199....0.Yx6lF_k00Fk){:target="_blank"}
 
 
 <br>
