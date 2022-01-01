@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 研究紹介
-nav_order: 
+nav_order: 2
 has_children: false
 permalink: /docs/research
 ---
