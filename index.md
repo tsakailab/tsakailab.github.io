@@ -36,7 +36,7 @@ permalink: /
 <br>
 <br>
 
-[<img src="assets/images/Lablive_YTiconO__qrcode-monkey.png" width="128" align="left" hspace="32">](https://youtube.com/playlist?list=PLqcsCBw9njgBZDP-VsYt6hjROK8mhrmOa)
+[<img src="assets/images/Lablive_YTiconO__qrcode-monkey.png" width="128" align="left" hspace="32">](https://youtube.com/playlist?list=PLqcsCBw9njgBZDP-VsYt6hjROK8mhrmOa){:target="blank"}
 ### tsakAI@LabLive!
 研究室YouTubeライブ
 
