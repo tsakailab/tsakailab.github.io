@@ -7,7 +7,7 @@ permalink: /docs/members
 
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| &emsp;&emsp;&emsp;&emsp;&emsp; |  |
 |:----|:----|:----|
-| 教員 | 准教授 | [酒井 智弥](http://researchmap.jp/tsakai/?lang=japanese) |
+| 教員 | 准教授 | [酒井 智弥](https://www.idsci.nagasaki-u.ac.jp/research_ac/facultylist/staff16/){:target="_blank"} |
 | 学生 | M2 |	石橋 諒士，山田 頼弥，吉木 天子 |
 |      | M1	| 尾道 拓海，武田 啓太，松尾 和季 |
 |      | B4 | 竹 隼弥，藤原 航平，山口 峻矢，若杉 勇弥，HONG KYUNG-ROK，有吉 裕樹 |
