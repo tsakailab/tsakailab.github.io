@@ -12,6 +12,9 @@ permalink: /docs/research
 科学と知識を記述する数理モデリング．データから情報を抽出する機械学習．両者の融合が問題解決の鍵になる．<br>
 ここ長崎大学でも学び究める機会があることを，志のある人は見逃さないでほしいです．
 
+## 目次
+{: .no_toc .text-delta }
+
 1. TOC
 {: toc}
 
@@ -20,11 +23,23 @@ permalink: /docs/research
 ![](tsakAI1080t.png)
 
 データしか使わないなんて，もったいない．
-数学の言葉で書かれた<span class="text-red-000">科</span>学と知識．これを人工知能に授ければ，人の知識を補う情報を上手に獲得できるでしょう。
-特に医学への応用では，正確なだけでなく説得力のある情報が求められます。そんなとき，医学の知識を下地にしたデータ科学が不可欠です。
+
+数学の言葉で書かれた<span class="text-red-000">科</span>学と<span class="text-red-000">知</span>識．これを<span class="text-red-000">人工知能</span>に授ければ，<br>
+人の知識を補う情報を上手に獲得できるでしょう．
 
 
-参考資料：
+<br>
+
+## 共同研究　ー 情報科学・データ科学で医学に貢献 －
+
+特に<span class="text-blue-100">医学</span>への応用では，正確なだけでなく**説得力**のある<span class="text-blue-100">情報</span>が求められます．<br>
+そんなとき，医学の知識を下地にした<span class="text-blue-100">データ科学</span>が不可欠です．
+
+![](jw_med1080t.png)
+
+<br>
+
+## スパースモデリング　ー データの本質を見抜く新常識 －
 
 - [一のデータから十を知る（長崎大学広報誌Choho, 工学部創立50周年記念特別版，p.8）](http://www.eng.nagasaki-u.ac.jp/data/choho_50th.pdf#page=8)
 - [スパースモデリングって何？（酒井講演資料）](https://sites.google.com/site/tsakailab/lecture)
@@ -35,6 +50,8 @@ permalink: /docs/research
 - [スパースモデリングの深化と高次元データ駆動科学の創成，文科省科研費「新学術領域研究」](http://sparse-modeling.jp/about/)
 - [情報科学の名探偵！魔法の数式 スパースモデリング，サイエンスZERO，No.514](https://www.google.co.jp/search?safe=off&biw=1089&bih=935&ei=VIwBWpnuLISW8gXokKrgDA&q=%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%81%AE%E5%90%8D%E6%8E%A2%E5%81%B5%EF%BC%81%E9%AD%94%E6%B3%95%E3%81%AE%E6%95%B0%E5%BC%8F+%E3%82%B9%E3%83%91%E3%83%BC%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9ZERO+No.514&oq=%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%81%AE%E5%90%8D%E6%8E%A2%E5%81%B5%EF%BC%81%E9%AD%94%E6%B3%95%E3%81%AE%E6%95%B0%E5%BC%8F+%E3%82%B9%E3%83%91%E3%83%BC%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9ZERO+No.514&gs_l=psy-ab.12..35i39k1.13784.16996.0.22392.4.4.0.0.0.0.104.387.3j1.4.0....0...1.1.64.psy-ab..0.2.199....0.Yx6lF_k00Fk)
 
+
+<br>
 
 ## 沿革
 
