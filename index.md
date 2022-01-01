@@ -44,5 +44,5 @@ permalink: /
 <br>
 <br>
 
-Last modified: {{ "now" | date: "%Y%m%d"}}
+Last modified: {{ "now" | date: "%Y%m%d" }}
 {: .fs-2 }
