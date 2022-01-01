@@ -2,7 +2,7 @@
 layout: default
 title: 研究紹介
 nav_order: 3
-has_children: true
+has_children: false
 permalink: /docs/research
 ---
 
@@ -12,8 +12,18 @@ permalink: /docs/research
 科学と知識を記述する数理モデリング．データから情報を抽出する機械学習．両者の融合が問題解決の鍵になる．<br>
 ここ長崎大学でも学び究める機会があることを，志のある人は見逃さないでほしいです．
 
+1. TOC
+{: toc}
+
+
 ## 数理モデルからの知識の転移と学習
 ![](tsakAI1080t.png)
+
+データしか使わないなんて，もったいない．
+数学の言葉で書かれた<span class="text-red-000">科</span>学と知識．これを人工知能に授ければ，人の知識を補う情報を上手に獲得できるでしょう。
+特に医学への応用では，正確なだけでなく説得力のある情報が求められます。そんなとき，医学の知識を下地にしたデータ科学が不可欠です。
+![image](https://user-images.githubusercontent.com/31200897/147846123-e5e5c213-aa6e-435d-b924-8f16d52e80ad.png)
+
 
 参考資料：
 
