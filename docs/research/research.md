@@ -20,12 +20,17 @@ permalink: /docs/research
 
 
 ## 数理モデルからの知識の転移と学習
+
 ![](tsakAI1080t.png)
 
 データしか使わないなんて，もったいない．
 
 数学の言葉で書かれた<span class="text-red-000">科</span>学と<span class="text-red-000">知</span>識．これを<span class="text-red-000">人工知能</span>に授ければ，<br>
 人の知識を補う情報を上手に獲得できるでしょう．
+
+外部リンク：
+- [Science Paradigm 3.5：数理モデリングとディープラーニングの融合（長崎大学情報データ科学部 第8回コロキウム，2021）](https://youtu.be/rjoyNXX2NK8){:target="_blank"}
+- [数理モデルからの知識の転移と学習およびその医工学応用（基盤研究(B)，研究代表者，2019-2022）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19H04177/){:target="_blank"}
 
 
 <br>
@@ -37,16 +42,24 @@ permalink: /docs/research
 
 ![](jw_med1080t.png)
 
+外部リンク：
+- [ゲーム依存の社会浸透を防げるか？統合的科学評価と早期依存対策に向けた基盤研究](基盤研究(A)，2021-2024){:target="_blank"}
+- [高齢者支援の今後を見据えた嚥下波形の自動分類化に向けた基礎的研究（基盤研究(C)，2021-2024）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K12773/){:target="_blank"}
+- [人工知能を用いた口腔がんの細胞診・予後判定システムの開発（基盤研究(C)，2020-2022）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K10163/){:target="_blank"}
+
 <br>
 
 ## スパースモデリング　ー データの本質を見抜く新常識 －
 
+外部リンク：
 - [一のデータから十を知る（長崎大学広報誌Choho, 工学部創立50周年記念特別版，p.8）](http://www.eng.nagasaki-u.ac.jp/data/choho_50th.pdf#page=8){:target="_blank"}
 - [スパースモデリングって何？（酒井講演資料）](https://sites.google.com/site/tsakailab/lecture){:target="_blank"}
 - [圧縮センシングの基礎原理と画像再構成アルゴリズムの進歩（MEDICAL IMAGING TECHNOLOGY 34(4):177-185, 2016）](https://doi.org/10.11409/mit.34.177){:target="_blank"}
+- [圧縮センシングに基づく超高次元非線形写像の機械学習に関する研究（新学術領域研究，2014-2015）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PUBLICLY-26120526/){:target="_blank"}
+- [組合せ最適化問題としてのパターン認識：理論構築と実用化に関する研究（基盤研究(C)，2013-1015）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25330200/){:target="_blank"}
+- [圧縮センシングの手法によるパターン認識の効率化、頑健化および秘匿化に関する研究（若手研究(B)，2010-2012）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22700163/){:target="_blank"}
 
-その他，外部リンク：
-
+その他：
 - [スパースモデリングの深化と高次元データ駆動科学の創成，文科省科研費「新学術領域研究」](http://sparse-modeling.jp/about/){:target="_blank"}
 - [情報科学の名探偵！魔法の数式 スパースモデリング，サイエンスZERO，No.514](https://www.google.co.jp/search?safe=off&biw=1089&bih=935&ei=VIwBWpnuLISW8gXokKrgDA&q=%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%81%AE%E5%90%8D%E6%8E%A2%E5%81%B5%EF%BC%81%E9%AD%94%E6%B3%95%E3%81%AE%E6%95%B0%E5%BC%8F+%E3%82%B9%E3%83%91%E3%83%BC%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9ZERO+No.514&oq=%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E3%81%AE%E5%90%8D%E6%8E%A2%E5%81%B5%EF%BC%81%E9%AD%94%E6%B3%95%E3%81%AE%E6%95%B0%E5%BC%8F+%E3%82%B9%E3%83%91%E3%83%BC%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0+%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9ZERO+No.514&gs_l=psy-ab.12..35i39k1.13784.16996.0.22392.4.4.0.0.0.0.104.387.3j1.4.0....0...1.1.64.psy-ab..0.2.199....0.Yx6lF_k00Fk){:target="_blank"}
 
