@@ -29,7 +29,7 @@ permalink: /
 
 [<img src="assets/images/population_w400.png" width="128" align="left" hspace="32">]({{ site.baseurl }}{% link docs/members.md %})
 ### メンバー
-教員が1名，学生が11名います．
+教員が1名，学生が12名います．
 
 <br>
 <br>
