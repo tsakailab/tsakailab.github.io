@@ -2,7 +2,7 @@
 layout: default
 title: 場所・連絡先
 nav_order: 4
-permalink: /docs/contact
+permalink: /contact/contact
 ---
 
 <div style="float:right; margin-left:20px">
