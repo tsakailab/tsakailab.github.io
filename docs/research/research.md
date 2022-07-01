@@ -43,6 +43,7 @@ permalink: /docs/research
 ![](jw_med1080t.png)
 
 外部リンク：
+- [MRIと深層学習を用いた口腔癌リンパ節転移予測法の確立（基盤研究(C)，2022-2024）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K10150/){:target="_blank"}
 - [ゲーム依存の社会浸透を防げるか？統合的科学評価と早期依存対策に向けた基盤研究（基盤研究(A)，2021-2024）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21H04853/){:target="_blank"}
 - [高齢者支援の今後を見据えた嚥下波形の自動分類化に向けた基礎的研究（基盤研究(C)，2021-2024）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K12773/){:target="_blank"}
 - [人工知能を用いた口腔がんの細胞診・予後判定システムの開発（基盤研究(C)，2020-2022）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20K10163/){:target="_blank"}
