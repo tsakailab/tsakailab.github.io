@@ -29,7 +29,7 @@ permalink: /docs/research
 人の知識を補う情報を上手に獲得できるでしょう．
 
 外部リンク：
-- [Science Paradigm 3.5：数理モデリングとディープラーニングの融合（長崎大学情報データ科学部 第8回コロキウム，2021）](https://youtu.be/rjoyNXX2NK8){:target="_blank"}
+- [Science Paradigm 3.5：数理モデリングとディープラーニングの融合（長崎大学情報データ科学部 第8回コロキウム，2021）](https://www.youtube.com/embed/rjoyNXX2NK8?cc_load_policy=1){:target="_blank"}
 - [数理モデルからの知識の転移と学習およびその医工学応用（基盤研究(B)，研究代表者，2019-2022）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19H04177/){:target="_blank"}
 
 
