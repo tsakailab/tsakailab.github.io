@@ -43,6 +43,7 @@ permalink: /docs/research
 ![](jw_med1080t.png)
 
 外部リンク：
+- [My研究室Life，情報データ科学部の研究室](https://www.nagasaki-u.ac.jp/ja/guidance/kouhou/publicity/file/c078-3.pdf#page=10){:target="_blank"}
 - [MRIと深層学習を用いた口腔癌リンパ節転移予測法の確立（基盤研究(C)，2022-2024）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K10150/){:target="_blank"}
 - [ゲーム依存の社会浸透を防げるか？統合的科学評価と早期依存対策に向けた基盤研究（基盤研究(A)，2021-2024）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21H04853/){:target="_blank"}
 - [高齢者支援の今後を見据えた嚥下波形の自動分類化に向けた基礎的研究（基盤研究(C)，2021-2024）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-21K12773/){:target="_blank"}
