@@ -20,9 +20,9 @@ permalink: /
 <br>
 <br>
 
-[<img src="assets/images/Lablive_YTiconO__qrcode-monkey.png" width="128" align="left" hspace="32">](https://youtube.com/playlist?list=PLqcsCBw9njgBZDP-VsYt6hjROK8mhrmOa){:target="blank"}
+[<img src="assets/images/Lablive_YTiconO__qrcode-monkey.png" width="128" align="left" hspace="32">](https://www.youtube.com/@lablive){:target="blank"}
 ### tsakAI@LabLive!
-研究室YouTube常時ライブ配信，研究紹介動画
+研究室のYouTubeチャンネル，研究紹介動画など
 
 <br>
 <br>
