@@ -42,4 +42,4 @@ permalink: /docs/members
 - [千葉大学 フロンティア医工学センター 羽石研究室](http://www.cfme.chiba-u.jp/~haneishi/){:target="_blank"}
 - [長崎大学病院 口腔外科 長崎大学大学院医歯薬学総合研究科 歯科矯正学分野](https://www.de.nagasaki-u.ac.jp/education/dept_odo.html){:target="_blank"}
 - [長崎大学病院 口腔外科 長崎大学大学院医歯薬学総合研究科 口腔診断・情報科学分野](http://www.de.nagasaki-u.ac.jp/education/dept_rcb.html){:target="_blank"}
-- [金沢医科大学病院 歯科口腔科](https://www.kanazawa-med.ac.jp/~hospital/section/department/dentist.html){:targt="_blank"}
+- [金沢医科大学病院 歯科口腔科](https://www.kanazawa-med.ac.jp/~hospital/section/department/dentist.html){:target="_blank"}
