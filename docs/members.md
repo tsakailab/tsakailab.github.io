@@ -36,9 +36,10 @@ permalink: /docs/members
 
 共同研究中：
 
-- [長崎大学病院 第二内科 呼吸管理グループ](http://www.med.nagasaki-u.ac.jp/intmed-2/pulmonology/examination_2.html){:target="_blank"}
+- [長崎大学病院 第二内科 呼吸器内科](https://www.med.nagasaki-u.ac.jp/intmed-2/pulmonology/index.html){:target="_blank"}
 - [長崎大学大学院 医歯薬学総合研究科 保健学専攻 理学療法学分野](http://www.am.nagasaki-u.ac.jp/gs/physical-occupational/physical.html){:target="_blank"}
 - [西九州大学リハビリテーション学部 リハビリテーション学科 作業療法学専攻](https://www.nisikyu-u.ac.jp/faculty/rehabilitation/ot.html){:target="_blank"}
 - [千葉大学 フロンティア医工学センター 羽石研究室](http://www.cfme.chiba-u.jp/~haneishi/){:target="_blank"}
-- [長崎大学病院 口腔外科 長崎大学大学院医歯薬学総合研究科 顎口腔再生外科学分野](http://www.de.nagasaki-u.ac.jp/oralsurgery/staff/){:target="_blank"}
-- [長崎大学病院 口腔外科 長崎大学大学院医歯薬学総合研究科 頭頸部放射線学分野](http://www.de.nagasaki-u.ac.jp/education/dept_rcb.html){:target="_blank"}
+- [長崎大学病院 口腔外科 長崎大学大学院医歯薬学総合研究科 歯科矯正学分野](https://www.de.nagasaki-u.ac.jp/education/dept_odo.html){:target="_blank"}
+- [長崎大学病院 口腔外科 長崎大学大学院医歯薬学総合研究科 口腔診断・情報科学分野](http://www.de.nagasaki-u.ac.jp/education/dept_rcb.html){:target="_blank"}
+- [金沢医科大学病院 歯科口腔科](https://www.kanazawa-med.ac.jp/~hospital/section/department/dentist.html){:targt="_blank"}
