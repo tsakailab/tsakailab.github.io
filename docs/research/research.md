@@ -55,7 +55,6 @@ permalink: /docs/research
 
 外部リンク：
 - [一のデータから十を知る（長崎大学広報誌Choho, 工学部創立50周年記念特別版，p.8）](choho_50th_p15.pdf){:target="_blank"}
-- [スパースモデリングって何？（酒井講演資料）](https://sites.google.com/site/tsakailab/lecture){:target="_blank"}
 - [圧縮センシングの基礎原理と画像再構成アルゴリズムの進歩（MEDICAL IMAGING TECHNOLOGY 34(4):177-185, 2016）](https://doi.org/10.11409/mit.34.177){:target="_blank"}
 - [圧縮センシングに基づく超高次元非線形写像の機械学習に関する研究（新学術領域研究，2014-2015）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PUBLICLY-26120526/){:target="_blank"}
 - [組合せ最適化問題としてのパターン認識：理論構築と実用化に関する研究（基盤研究(C)，2013-1015）](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25330200/){:target="_blank"}
