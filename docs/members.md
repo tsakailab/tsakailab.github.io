@@ -32,15 +32,15 @@ permalink: /docs/members
 - 情報データ科学部 情報データ科学科（2020年度設置）
   - インフォメーションサイエンスコース
   - データサイエンスコース
-- 大学院 工学研究科 博士前期課程 総合工学専攻情報工学コース（2011年度設置）  
-- 大学院 工学研究科 博士後期課程 生産システム工学専攻電気情報工学コース（2011年度設置）  
+- 大学院 総合生産科学研究科 博士前期課程 総合生産科学専攻 共生システム科学コース（情報データ科学分野）（2024年度設置）  
+- 大学院 総合生産科学研究科 博士後期課程 総合生産科学専攻 共生システム科学コース／工学・情報データ科学分野（2024年度設置）  
 
 共同研究中：
 
-- [長崎大学病院 第二内科 呼吸器内科](https://www.med.nagasaki-u.ac.jp/intmed-2/pulmonology/index.html){:target="_blank"}
-- [長崎大学大学院 医歯薬学総合研究科 保健学専攻 理学療法学分野](http://www.am.nagasaki-u.ac.jp/gs/physical-occupational/physical.html){:target="_blank"}
-- [西九州大学リハビリテーション学部 リハビリテーション学科 作業療法学専攻](https://www.nisikyu-u.ac.jp/faculty/rehabilitation/ot.html){:target="_blank"}
+- [長崎大学病院 第二内科 呼吸器内科](https://www.med.nagasaki-u.ac.jp/intmed-2/pulmonology/index.html){:target="_blank"} 
 - [千葉大学 フロンティア医工学センター 羽石研究室](http://www.cfme.chiba-u.jp/~haneishi/){:target="_blank"}
 - [長崎大学病院 口腔外科 長崎大学大学院医歯薬学総合研究科 歯科矯正学分野](https://www.de.nagasaki-u.ac.jp/education/dept_odo.html){:target="_blank"}
 - [長崎大学病院 口腔外科 長崎大学大学院医歯薬学総合研究科 口腔診断・情報科学分野](http://www.de.nagasaki-u.ac.jp/education/dept_rcb.html){:target="_blank"}
 - [金沢医科大学病院 歯科口腔科](https://www.kanazawa-med.ac.jp/~hospital/section/department/dentist.html){:target="_blank"}
+<!-- - [長崎大学大学院 医歯薬学総合研究科 保健学専攻 理学療法学分野](http://www.am.nagasaki-u.ac.jp/gs/physical-occupational/physical.html){:target="_blank"}
+- [西九州大学リハビリテーション学部 リハビリテーション学科 作業療法学専攻](https://www.nisikyu-u.ac.jp/faculty/rehabilitation/ot.html){:target="_blank"}-->
