@@ -8,12 +8,13 @@ permalink: /docs/members
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| &emsp;&emsp;&emsp;&emsp;&emsp; |  |
 |:----|:----|:----|
 | 教員 | 准教授 | [酒井 智弥](https://www.idsci.nagasaki-u.ac.jp/research_ac/facultylist/staff16/){:target="_blank"} |
-|      | D1 / 助教 |	武田 啓太 |
-| 学生 | M2	| 竹 隼弥，藤原 航平，山口 峻矢，若杉 勇弥，Song Qiyang |
-|      | M1	| 飛永 虎汰郎，松本 峻汰，吉村 巧 |
-|      | B4 | 鬼塚 壮馬，松村 勇汰，三宅 晟大，HONG KYUNG-ROK |
+|      | D2 / 助教 |	武田 啓太 |
+| 学生 | M2	| 飛永 虎汰郎，松本 峻汰，吉村 巧 |
+|      | M1	| 松村 勇汰，三宅 晟大 |
+|      | B4 | 戸田 悠斗，飯田 一穂，石橋 巧己，齋藤 渓，呉 哲 |
 |      |    |  |
-| 卒業生/修了生等 | 2022年度 | 山口 陸 / 尾道 拓海，松尾 和季 |
+| 卒業生/修了生等 | 2023年度 | 鬼塚 壮馬，HONG KYUNG-ROK / 竹 隼弥，藤原 航平，山口 峻矢，若杉 勇弥，Song Qiyang |
+|                | 2022年度 | 山口 陸 / 尾道 拓海，松尾 和季 |
 |                | 2021年度 | - / 有吉 裕樹 / 石橋 諒士，山田 頼弥，吉木 天子 |
 |                | 2020年度 | 藤田 航，松成 孝泰，堤 隆斗 / 周筝，Leo Blaise（大学院交換留学生）|
 |                | 2019年度 | 石川 玄，彌榮 有美 / 福田 友樹 / 梅根 健太，宮田 ゆかり，三好 亮平 / Matthieu Moreau（大学院交換留学生） |
