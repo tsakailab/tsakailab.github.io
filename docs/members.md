@@ -7,13 +7,16 @@ permalink: /docs/members
 
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| &emsp;&emsp;&emsp;&emsp;&emsp; |  |
 |:----|:----|:----|
-| 教員 | 准教授 | [酒井 智弥](https://www.idsci.nagasaki-u.ac.jp/research_ac/facultylist/staff16/){:target="_blank"} |
+| 教員 | 教授 | [酒井 智弥](https://www.idsci.nagasaki-u.ac.jp/research_ac/facultylist/staff16/){:target="_blank"} |
 |      | 助教 |	[武田 啓太](https://www.idsci.nagasaki-u.ac.jp/research/faculty-list/staff32){:target="_blank"} |
-| 学生 | M2	| 松村 勇汰，三宅 晟大 |
-|      | M1	| 飯田 一穂，石橋 巧己，齋藤 渓 |
-|      | B4 | 戸田 悠斗，入部 翔太，小川 直輝，詫摩 さくら，平光 まえ，真崎 陽向，塚原 陽太，楊 鴻巍 |
+| 学生 | M2	| 飯田 一穂，石橋 巧己，齋藤 渓 |
+|      | M1	| 入部 翔太，詫摩 さくら，真崎 陽向，王 子軒 |
+|      | B4 | 楊 鴻巍，鹿江 琉希，木村 エドワードバレンティン秀吉，高嶺 信太郎，徳田 寛，中村 颯太 |
+| 留学生 | D | Rishabh Dhawan |
+|       | M | Yi-Rou Chou |
 |      |    |  |
-| 卒業生/修了生等 | 2024年度 | 呉 哲 / 飛永 虎汰郎，松本 峻汰，吉村 巧 / 武田 啓太 |
+| 卒業生/修了生等 | 2025年度 | 戸田 悠斗，小川 直輝，平光 まえ，塚原 陽太 / 松村 勇汰，三宅 晟大 / Jaleel Ahmed Radhu Khwaja（学部交換留学生），Zih-Jie Guo（大学院交換留学生） |
+|                | 2024年度 | 呉 哲 / 飛永 虎汰郎，松本 峻汰，吉村 巧 / 武田 啓太 |
 |                | 2023年度 | 鬼塚 壮馬，HONG KYUNG-ROK / 竹 隼弥，藤原 航平，山口 峻矢，若杉 勇弥，Song Qiyang |
 |                | 2022年度 | 山口 陸 / 尾道 拓海，松尾 和季 |
 |                | 2021年度 | - / 有吉 裕樹 / 石橋 諒士，山田 頼弥，吉木 天子 |
