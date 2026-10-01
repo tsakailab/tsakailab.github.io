@@ -47,3 +47,10 @@ permalink: /docs/members
 - [長崎大学病院 口腔外科 長崎大学大学院医歯薬学総合研究科 口腔診断・情報科学分野](http://www.de.nagasaki-u.ac.jp/education/dept_rcb.html){:target="_blank"}
 - [金沢医科大学病院 歯科口腔科](https://www.kanazawa-med.ac.jp/~hospital/section/department/dentist.html){:target="_blank"}
 - [株式会社 セイノー情報サービス](https://www.siscloud.jp/){:target="_blank"}
+
+
+## For Prospective International Students
+
+International students interested in studying in our laboratory are welcome to contact us regarding their research interests and possible supervision. Undergraduate students conducting their graduation research in our laboratory are also encouraged to continue their research with us in a graduate program. Prospective doctoral students from other institutions are also welcome to inquire.
+
+Scholarship applications, including MEXT University Recommendation, are handled through the university’s official procedures. Please do not contact individual faculty members solely to request a scholarship nomination or recommendation. Such inquiries may not receive a response.
