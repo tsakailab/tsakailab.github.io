@@ -89,3 +89,10 @@ permalink: /docs/research
 - [KAKEN](https://nrid.nii.ac.jp/ja/nrid/1000030345003/){:target="_blank"}
 
 ※注：掲載されているものがすべてではありません．
+
+
+## For Prospective International Students
+
+International students interested in studying in our laboratory are welcome to contact us regarding their research interests and possible supervision. Undergraduate students conducting their graduation research in our laboratory are also encouraged to continue their research with us in a graduate program. Prospective doctoral students from other institutions are also welcome to inquire.
+
+Scholarship applications, including MEXT University Recommendation, are handled through the university’s official procedures. Please do not contact individual faculty members solely to request a scholarship nomination or recommendation. Such inquiries may not receive a response.
